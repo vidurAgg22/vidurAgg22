@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **viduragarwal22@gmail.com**
 
-- ⚡ Fun fact ** Data science was crucial in ancient Egypt for building the pyramids!**
+- ⚡ Fun fact **Data science was crucial in ancient Egypt for building the pyramids!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
