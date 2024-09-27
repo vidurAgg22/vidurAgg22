@@ -91,8 +91,18 @@
 </p>
 
 
-<!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidurAgg22&show_icons=true&locale=en&layout=compact" alt="vidurAgg22" /></p>
+<!-- GitHub Stats and Streak in one row -->
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidurAgg22&show_icons=true&locale=en&layout=compact" alt="vidurAgg22" />
+  
+  <a href="https://github.com/vidurAgg22?tab=repositories">
+    <img align="center" title="VidurAgg22's Github Stats" alt="VidurAgg22's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vidurAgg22&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
+  </a>
+  
+  <a href="https://github.com/vidurAgg22#user-activity-overview">
+    <img align="center" title="VidurAgg22's Github Streak" alt="VidurAgg22's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vidurAgg22" />
+  </a>
+</p>
 
 <!-- Clear float to avoid overlap -->
 <div style="clear: both;"></div>
