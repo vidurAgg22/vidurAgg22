@@ -91,18 +91,30 @@
 </p>
 
 
-<!-- GitHub Stats and Streak in one row -->
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidurAgg22&show_icons=true&locale=en&layout=compact" alt="vidurAgg22" />
+<div style="display: flex; justify-content: space-between; align-items: center; margin: 20px;">
   
-  <a href="https://github.com/vidurAgg22?tab=repositories">
-    <img align="center" title="VidurAgg22's Github Stats" alt="VidurAgg22's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vidurAgg22&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
-  </a>
-  
-  <a href="https://github.com/vidurAgg22#user-activity-overview">
-    <img align="center" title="VidurAgg22's Github Streak" alt="VidurAgg22's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vidurAgg22" />
-  </a>
-</p>
+  <div style="width: 30%; text-align: center;">
+    <!-- GitHub Languages or Stats -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidurAgg22&show_icons=true&locale=en&layout=compact" alt="vidurAgg22" />
+  </div>
+
+  <div style="width: 30%; text-align: center;">
+    <!-- GitHub Stats -->
+    <a href="https://github.com/vidurAgg22?tab=repositories">
+      <img align="center" title="VidurAgg22's Github Stats" alt="VidurAgg22's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vidurAgg22&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
+    </a>
+  </div>
+
+  <div style="width: 30%; text-align: center;">
+    <!-- GitHub Streak -->
+    <a href="https://github.com/vidurAgg22#user-activity-overview">
+      <img align="center" title="VidurAgg22's Github Streak" alt="VidurAgg22's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vidurAgg22" />
+    </a>
+  </div>
+
+</div>
+
+
 
 <!-- Clear float to avoid overlap -->
 <div style="clear: both;"></div>
