@@ -1,4 +1,7 @@
-![yy](https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" alt="yy" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Vidur Agarwal</h1>
 <h3 align="center">Third-year student passionate about data</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
