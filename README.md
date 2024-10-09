@@ -28,14 +28,15 @@
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/vidurAgg22/Badges/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/vidurAgg22/Badges/main/Adventurer%20Badge.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/vidurAgg22/Badges/main/Champion%20Badge.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/vidurAgg22/Badges/main/Explorer%20Badge.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/vidurAgg22/Badges/main/Summit%20Seeker%20Badge.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/vidurAgg22/Badges/main/Trailblazer%20Badge.png" width="100px" height="100px" />
   </a>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
