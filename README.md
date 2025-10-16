@@ -23,7 +23,7 @@
 
 
 ## LeetCode Stats 🧩
-<div align="center"> <img src="https://leetcard.jacoblin.cool/vidurAgg22?ext=heatmap" alt="LeetCode Stats" /> </div> <be>
+<div align="center"> <img src="https://leetcard.jacoblin.cool/vidurag?ext=heatmap" alt="LeetCode Stats" /> </div> <be>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
