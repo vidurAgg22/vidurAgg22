@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Vidur Agarwal</h1>
 <h3 align="center">Third-year student passionate about data</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viduragg22&label=Profile%20views&color=0e75b6&style=flat" alt="viduragg22" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidurag&label=Profile%20views&color=0e75b6&style=flat" alt="viduragg22" /> </p>
 
 - 🔭 I’m currently working on **Rag Based Chatbot**
 
