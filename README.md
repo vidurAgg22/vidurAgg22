@@ -23,7 +23,7 @@
 
 
 ## LeetCode Stats 🧩
-<div align="center"> <img src="https://leetcard.jacoblin.cool/vidurag?ext=heatmap" alt="LeetCode Stats" /> </div> <be>
+<div align="center"> <img src="https://leetcard.jacoblin.cool/VidurAg22?ext=heatmap" alt="LeetCode Stats" /> </div> <be>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
@@ -97,7 +97,7 @@
 
 | Most Used Languages | GitHub Stats | Streak Stats |
 |---------------------|--------------|--------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=vidurAgg22&show_icons=true&locale=en&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidurAg22&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vidurAgg22) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=vidurAgg22&show_icons=true&locale=en&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidurAgg22&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vidurAgg22) |
 
 
 
